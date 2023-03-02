@@ -1,4 +1,5 @@
 FROM python:3.11
+LABEL org.opencontainers.image.source=https://github.com/sirtux/healthreceiver
 
 WORKDIR /code
 
